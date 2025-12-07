@@ -7,12 +7,12 @@ The project explores linear and non-linear decision boundaries using **linear**,
 
 ## 📚 Table of Contents
 
-- [Overview](#overview)
-- [Features](#features)
-- [Methods](#methods)
-- [Results](#results)
-- [Tools](#tools)
-- [License](#license)
+- [Overview](#-overview)
+- [Features](#-features)
+- [Methods](#-methods)
+- [Results](#-results)
+- [Tools](#-tools)
+- [License](#-license)
 
 ---
 
